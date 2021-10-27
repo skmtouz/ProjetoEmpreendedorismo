@@ -5,13 +5,21 @@
 }
 
 body {
-    background-image: url(imagens/body.svg);
+    background-image: url(imagens/body.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     width: 100vw;
     height: 100vh;
+}
+
+.home {
+    background-image: url(imagens/home2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 2000px;
+    height: 1000px;
 }
 
 /* .navbar {
