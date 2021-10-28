@@ -2,9 +2,13 @@
     margin: 0;
     padding: 0;
     color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
 }
 
+
 body {
+    padding: 50px;
     background-image: url(imagens/body.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -14,13 +18,51 @@ body {
     height: 100vh;
 }
 
-.home {
-    background-image: url(imagens/home2.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 2000px;
-    height: 1000px;
+header {
+    width: 100%;
 }
 
-/* .navbar {
-}  */
+.navbar {
+    padding: 10px 100px;
+    display: flex;
+    width: 100%;
+} 
+
+.menu {
+    list-style: none;
+    font-size: 25px;
+    display: inline-flex;
+}
+
+.menu li {
+    justify-content: left;
+    padding-right: 25px;
+}
+
+.menu li a {
+    display: inline;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    color: #D90416;
+}
+
+.logo {
+    float: right;
+    padding-right: 250px;
+}
+
+/* #secao1{
+    display: inline-flex;
+    width: 100%;
+}
+
+.main {
+    justify-content: left;
+}
+
+.home {
+    float: right;
+    width: 500px;
+} */
