@@ -53,9 +53,11 @@ header {
     padding-right: 250px;
 }
 
-/* #secao1{
+#secao1{
     display: inline-flex;
+    justify-content: center;
     width: 100%;
+    height: 700px;
 }
 
 .main {
@@ -64,5 +66,4 @@ header {
 
 .home {
     float: right;
-    width: 500px;
-} */
+}
