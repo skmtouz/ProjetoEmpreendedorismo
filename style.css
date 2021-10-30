@@ -19,13 +19,21 @@ body {
 
 header {
     width: 100%;
+    /* display: flex; */
+    align-items: center;
 }
 
 .navbar {
     /* padding: 10px 100px; */
     display: flex;
     width: 100%;
-} 
+}
+
+.navbar img {
+    /* float: right; */
+    align-content: space-around;
+    
+}
 
 .menu {
     list-style: none;
@@ -42,15 +50,12 @@ header {
 .menu li a {
     display: inline;
     text-decoration: none;
-    padding-right: 25px;
+    padding-right: 50px;
 }
 
 .menu li a:hover {
     color: #D90416;
-}
-
-.logo {
-    float: right;
+    text-decoration: underline;
 }
 
 #secao1{
