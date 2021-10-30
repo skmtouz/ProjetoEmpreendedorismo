@@ -14,8 +14,8 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    
 }
 
 header {
@@ -50,7 +50,6 @@ header {
 
 .logo {
     float: right;
-    padding-right: 250px;
 }
 
 #secao1{
