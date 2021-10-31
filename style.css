@@ -7,8 +7,8 @@
     
 }
 
-
 body {
+    margin: 0 auto;
     padding: 50px 80px;
     background-image: url(imagens/body.png);
     background-attachment: fixed;
@@ -17,38 +17,31 @@ body {
     background-size: cover;
 }
 
-header {
-    width: 100%;
-    /* display: flex; */
-    align-items: center;
-}
-
 .navbar {
-    /* padding: 10px 100px; */
     display: flex;
-    width: 100%;
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    align-content: center;
 }
 
-.navbar img {
-    /* float: right; */
-    align-content: space-around;
-    
+.logo {
+
 }
 
 .menu {
     list-style: none;
     font-size: 25px;
-    display: inline-flex;
-    
+    display: inline-flex; 
 }
 
 .menu li {
     justify-content: left;
-    
+    display: inline;
 }
 
 .menu li a {
-    display: inline;
+    display: block;
     text-decoration: none;
     padding-right: 50px;
 }
@@ -56,6 +49,10 @@ header {
 .menu li a:hover {
     color: #D90416;
     text-decoration: underline;
+}
+
+#logo {
+    padding: 0;
 }
 
 #secao1{
