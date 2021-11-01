@@ -55,7 +55,8 @@ body {
     text-decoration: underline;
 }
 
-#logo {
+.logo {
+    width: 350px;
     padding: 0;
     float: right;
 }
