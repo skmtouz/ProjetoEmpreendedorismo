@@ -15,24 +15,35 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    display: block;
+}
+
+#card {
+    width: 75%;
+    display: flex;
+    justify-content: center;
 }
 
 .navbar {
     display: flex;
-    width: 70%;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     align-content: center;
 }
 
+<<<<<<< HEAD
 /* .logo {
 
 } */
 
+=======
+>>>>>>> 369dd96b739abf2dc8b417a51deb0a42c1f39d12
 .menu {
     list-style: none;
-    font-size: 25px;
-    display: inline-flex; 
+    font-size: 1.3em;
+    display: inline-flex;
+    align-items: center; 
 }
 
 .menu li {
@@ -51,8 +62,10 @@ body {
     text-decoration: underline;
 }
 
-#logo {
+.logo {
+    width: 350px;
     padding: 0;
+    float: right;
 }
 
 #secao1{
