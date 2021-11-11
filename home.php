@@ -40,14 +40,7 @@
       <br>
       <br>
       <br>
-<<<<<<< HEAD
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio doloribus voluptate eum culpa, sunt numquam perspiciatis iste necessitatibus fugiat alias.</p>
-=======
-      <p>Responder de maneira proativa às necessidades dos clientes com o objetivo 
-          de manter sua infraestrutura em TI sempre em segurança e disponível para 
-          seu core business, além de trabalhar com transparência e pontualidade, 
-          superando as expectativas de nossos clientes.</p>
->>>>>>> 264848b4b060d03befa131f545a1c56638722473
     </div>
     
   </div>
@@ -70,14 +63,7 @@
       <br>
       <br>
       <br>
-<<<<<<< HEAD
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi doloribus at libero eveniet fuga vero quisquam vitae laboriosam repudiandae neque.</p>
-=======
-      <p>Responder de maneira proativa às necessidades dos clientes com o objetivo 
-          de manter sua infraestrutura em TI sempre em segurança e disponível para 
-          seu core business, além de trabalhar com transparência e pontualidade, 
-          superando as expectativas de nossos clientes.</p>
->>>>>>> 264848b4b060d03befa131f545a1c56638722473
     </div>
     
   </div>
