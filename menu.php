@@ -1,17 +1,16 @@
 <body>
     <div class="container-menu">
         <div id="menu-img1">
-            <!--<a href="index.html">
-                <img src="imagens/logo.png">-->
-                <h1>Imagem</h1>
+            <a href="index.html">
+                <img src="imagens/logo.png">    
             </a>
         </div>
         <div class="menu-div">
             <div id="menu-div1">
-                <a href="index.html">Inicio</a>
+                <a href="index.php">Inicio</a>
             </div>
             <div id="menu-div2">
-                <a href="#">Sobre nos</a>
+                <a href="#">Sobre nós</a>
             </div>
             <div id="menu-div3">
                 <a href="#">Nossos produtos</a>
