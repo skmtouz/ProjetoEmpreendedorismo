@@ -6,6 +6,10 @@
     box-sizing: border-box;
 }
 
+a{
+    text-decoration: none;
+}
+
 body {
     /* margin: 0 auto; */
     padding: 100% auto;
@@ -17,13 +21,13 @@ body {
     display: block;
 }
 
-.card {
+.container-menu {
     width: 100%;
-    background-color: #777777;
     display: inline-flex;
     flex-direction: row;
     flex-wrap: wrap;
-    /* justify-content: center center; */
+    justify-content: space-evenly;
+    padding-top: 10px;
 }
 
 .navbar {
@@ -35,26 +39,46 @@ body {
     /* align-content: center; */
 }
 
-.card a img{
+.container-menu a img{
     width: 28%;
     /* width: 350px; */
 }
 
 #menu-img1{
     background-color: rgb(11, 71, 124);
+    display: flex;
+    /* flex-grow: 1; */
+}
+.menu-div{
+    width: 30%;
+    padding-top: 10px;
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-grow: 1;
 }
 
 #menu-div1{
-    background-color: aqua;
+    width: 15%;
+    text-align: right;
+    /* align-items: center center; */
 }
 #menu-div2{
-    background-color: rgb(255, 0, 149);
+    width: 8%;
+    text-align: center;
 }
 #menu-div3{
-    background-color: rgb(208, 255, 0);
+    width: 10%;
+    text-align: center;
 }
 #menu-div4{
-    background-color: rgb(0, 255, 98);
+    width: 7%;
+    text-align: center;
+}
+.menu-div div a:hover {
+    color: #D90416;
+    text-decoration: underline;
 }
 
 
