@@ -40,7 +40,21 @@
       <br>
       <br>
       <br>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam laborum dignissimos atque molestiae numquam nihil corrupti animi, voluptas ipsum maiores beatae quis consectetur laboriosam assumenda tenetur, eveniet totam? A perspiciatis hic nisi nostrum accusantium officiis praesentium ea quos obcaecati quaerat dolores culpa est illum, aspernatur eligendi voluptate rem vero cum!</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio doloribus voluptate eum culpa, sunt numquam perspiciatis iste necessitatibus fugiat alias.</p>
+    </div>
+    
+  </div>
+</div>
+
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+      <img src="imagens/missao.png" alt="Avatar">
     </div>
     <div class="flip-card-back">
       <br>
@@ -49,7 +63,8 @@
       <br>
       <br>
       <br>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed nesciunt modi nemo alias, nam voluptatum totam beatae ipsum sapiente fugit et quas, tenetur blanditiis iste asperiores ullam cum delectus itaque dolor laudantium, reprehenderit voluptate enim! Perferendis provident nihil, architecto sed non officia sunt sapiente necessitatibus nesciunt maxime veniam aut excepturi!</p>
+      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi doloribus at libero eveniet fuga vero quisquam vitae laboriosam repudiandae neque.</p>
     </div>
+    
   </div>
 </div>

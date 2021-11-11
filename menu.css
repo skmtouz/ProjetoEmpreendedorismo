@@ -32,7 +32,7 @@ body {
 
 .navbar {
     display: flex;
-    background-color: #4404d9;
+    /* background-color: #4404d9; */
     width: 50%;
     margin: 0 auto;
     display: flex;
