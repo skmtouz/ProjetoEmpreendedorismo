@@ -2,7 +2,7 @@
 html{
     overflow-y:scroll;
     scroll-behavior:smooth;
-} /* Forces a scrollbar when the viewport is larger than the websites content - CSS3 */
+}
 
 body{
     margin:0;
@@ -76,8 +76,6 @@ img{
     clear:right;
 }
 
-/*----------------------------------------------HTML 5 Overrides-------------------------------------*/
-
 address, article, aside, figcaption, figure, footer, header, nav, section{
     display:block;
     margin:0;
@@ -104,7 +102,6 @@ q:after{
     line-height:0;
 }
 
-/* ----------------------------------------------Wrapper-------------------------------------*/
 
 div.wrapper{
     display:block;
@@ -134,7 +131,6 @@ div.wrapper{
     background-color:#232323;
 }
 
-/*----------------------------------------------Generalise-------------------------------------*/
 
 #header, #container, #footer{
     display:block;
@@ -247,7 +243,6 @@ input, textarea, select{
     margin-right:0;
 }
 
-/*----------------------------------------------Header-------------------------------------*/
 
 #header{
     padding:20px 0;
@@ -301,7 +296,6 @@ input, textarea, select{
     color:#D90416;
 }
 
-/*----------------------------------------------Content Area-------------------------------------*/
 
 #container{
     padding:30px 0;
@@ -320,7 +314,6 @@ input, textarea, select{
     text-align:right;
 }
 
-/* ------Slider-----*/
 
 #container #slider figure img{
     float:right;
@@ -351,7 +344,6 @@ input, textarea, select{
     text-transform:none;
 }
 
-/* ------Main Content-----*/
 
 #container #homepage{
     display:block;
@@ -391,7 +383,6 @@ input, textarea, select{
     font-size:14px;
 }
 
-/*----------------------------------------------Footer-------------------------------------*/
 
 #footer{
     padding:20px 0;
